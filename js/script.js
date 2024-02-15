@@ -28,8 +28,8 @@ myHeading.addEventListener('click', sayHello)
 
 const imgElement = document.querySelector("img");
 
-const img1URL = "img/roblox.jpeg";
-const img2URL = "img/stars.png";
+const img1URL = "img/love.jpeg";
+const img2URL = "img/jym.jpeg";
 
 function changePhoto(event){
     let current = imgElement.getAttribute("src");
